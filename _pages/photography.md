@@ -11,25 +11,25 @@ horizontal: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/clouds.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A Bresenham line with some sub-pixel resolution.
+    Clouds rolling off Pointe de l'Échelle.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/stream.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A Bresenham line with some sub-pixel resolution.
+    A hidden stream.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/valley.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A Bresenham line with some sub-pixel resolution.
+    The view from aussois.
 </div>
