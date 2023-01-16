@@ -16,7 +16,8 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  ##icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: jpsi_clean.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://aihphysics.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -250,8 +251,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hagan]
+  first_name: [Alina, I.]
 
   style: apa
   locale: en
