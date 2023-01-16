@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aihphysics
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aihphysics/terminal_rendering
+  - aihphysics/analysis_utils
+  - aihphysics/NeutrinoKeySet
+
