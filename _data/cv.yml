@@ -19,13 +19,17 @@
         - Supervised by Vato Kartvelishvili.
         - title: Research
           contents:
-            - Extracting Gluon TMDs from $J/\psi + \gamma$ final states.
+            - Extracting Gluon TMDs from $` j/\psi + \gamma `$ final states.
     - title: MSc
       institution: University of Glasgow, UK
       year: 2020
       description:
         - Masters of Science, Physics.
         - First Class Award.
+        - title: Masters project
+          contents:
+            - Measurement of b-jet substructure variables.
+            - Exploration of effects of Soft-Drop Jet cleaning method.
 
 - title: Experience
   type: time_table
@@ -55,7 +59,7 @@
   contents:
     - title: Quarkonium Physics.
       items: 
-        - $J/\psi$, $\Upsilon$, etc studies.
+        - $$ J/\psi $$, $$ \Upsilon $$ studies.
         - TMD extraction. 
 
 - title: Other Interests
