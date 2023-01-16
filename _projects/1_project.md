@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: terminal_rendering
+description: A unicode terminal renderer.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: programming
 ---
 
 Every project has a beautiful feature showcase page.
