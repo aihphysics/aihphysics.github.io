@@ -9,7 +9,20 @@ category: programming
 
 
 This project is perhaps my favourite dive into an unfamilliar topic. Getting to grips with rudimentary graphics programming has been foundational for my follow up projects. The project started with exploring Andy Sloane's (a1k0n) '[Donut math](https://www.a1k0n.net/2011/07/20/donut-math.html)' article, and has since led me to start learning OpenGL. 
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sphere_rend.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/torus_rend.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cylinder_rend.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    New shapes! 
+</div>
 a1k0n's approach uses the typical features you'd expect when rendering, Z-buffers and transforming 3D->2D using some nifty linear algebra, though employs a unique technique of iterating over the surface of the donut in three dimensions. I've retained this 3D iteration model to produce cubes, spheres, donuts, and a cylinder. 
 
 I'm considering replacing this with an implementation of Bresenham's line algorithm and some form of triangle rasterisation. 
