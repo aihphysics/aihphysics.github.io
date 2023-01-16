@@ -29,8 +29,26 @@ a1k0n's approach uses the typical features you'd expect when rendering, Z-buffer
         {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 I'm considering replacing this with an implementation of Bresenham's line algorithm and some form of triangle rasterisation, probably the scanline algorithm, for some nice rendering and a standard implementation of sub-pixel resolution.
 
+---
+#include <math.h>
+
+#include <euch_vector.hxx>
+
+#ifndef light_class
+#define light_class
+
+class light{
+
+  public:
+    euch_vector light_vec;
+    light();
+    light(float x_dir, float y_dir, float z_dir);
+
+};
+---
 There's also a few extra funky features, such as light no longer being hard-baked into objects and is an independant universal parallel source, like you're on the moon. Probably the most distinct visual change is the utilisation of the unicode characters. I'll admit that this does cut down on the portability of the 
 
 My next update to this will probably involve moving to a \( \Delta t \) model of iteration with the proper accumulator and doing some calculations with respect to a previous or base state. This is really helpful as you can pin the execution of the physics to a specific rate, independent of the rendering process.
