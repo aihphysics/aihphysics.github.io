@@ -6,53 +6,30 @@ description: Just a few photos from my explorations. Let me know if you like the
 nav: true
 nav_order: 3
 display_categories: [ ]
-horizontal: false
+horizontal: true
 ---
 
-<!-- pages/photography.md -->
-<div class="photography">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized photography -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_photography = site.photography | where: "category", category -%}
-  {%- assign sorted_photography = categorized_photography | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_photography -%}
-      {% include photography_horizontal.html %}
-    {%- endfor %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_photography -%}
-      {% include photography.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display photography without categories -->
-  {%- assign sorted_photography = site.photography | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_photography -%}
-      {% include photography_horizontal.html %}
-    {%- endfor %}
+</div>
+<div class="caption">
+    A Bresenham line with some sub-pixel resolution.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_photography -%}
-      {% include photography.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+</div>
+<div class="caption">
+    A Bresenham line with some sub-pixel resolution.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Bresenham_line.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A Bresenham line with some sub-pixel resolution.
 </div>
