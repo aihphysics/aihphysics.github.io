@@ -6,7 +6,7 @@ description: Look at these cool things I made!
 nav: true
 nav_order: 2
 display_categories: [ programming ]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
