@@ -33,7 +33,8 @@ a, table.table a {
 }
 
 figure, img {
-  max-width: 90vw;
+  //max-width: 90vw;
+  max-width: 100vw;
 }
 
 blockquote {
@@ -456,7 +457,7 @@ footer.sticky-bottom {
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
-    margin-bottom: 0rem;
+    margin-bottom: 1rem;
     text-align: right;
   }
 }
