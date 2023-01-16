@@ -2,10 +2,11 @@
 layout: page
 title: terminal_rendering
 description: A unicode terminal renderer.
-img: assets/img/12.jpg
+img: assets/img/cube_1.png
 importance: 1
 category: programming
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
