@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Alina, I'm a PhD Student 
+Hi! I'm Alina, I'm a PhD Student from Glasgow, studying at Lancaster University. My research focusses around Quarkonium physics, more specifically, around extracting Gluon TMDs for the proton. I work as a part of the ATLAS collaboration and I'm stationed at the CERN campus in Meyrin, Switzerland. My interests include photography, video games, and good solutions to programming problems. Don't hesitate to get in contact!
 
 {::comment} 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

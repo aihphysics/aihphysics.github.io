@@ -2,7 +2,7 @@
 layout: page
 title: photography
 permalink: /photography/
-description: Look at these cool things I made!
+description: Just a few photos from my explorations. Let me know if you like them!
 nav: true
 nav_order: 3
 display_categories: [ ]
