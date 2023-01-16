@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Here's my git stats and some of the repositories I've made!
+description: Here's my git stats and some of the repositories I'm working on!
 nav: true
 nav_order: 3
 ---
