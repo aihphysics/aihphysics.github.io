@@ -26,10 +26,10 @@
       description:
         - Masters of Science, Physics.
         - First Class Award.
-	- title: Masters Project
-          contents:
-	    - Measurement of b-jet substructure variables.
-	    - Utilising Soft-Drop jet cleaning method.
+          ##- title: Masters Project
+          ##  contents:
+	  ##    - Measurement of b-jet substructure variables.
+	  ##    - Utilising Soft-Drop jet cleaning method.
           
 
 - title: Experience
