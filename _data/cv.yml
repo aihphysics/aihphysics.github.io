@@ -54,6 +54,20 @@
       year: 2022-now
       description: A science fiction styled bridge operation game with an emphasis on complexity, technical knowledge of your craft, and operating procedure.
 
+
+- title: Talks
+  type: time_table
+  contents:
+    - title: Quarkonium as Tools
+      year: 2023
+      description: Inclusive quarkonium production: experimental overview
+    - title: ATLAS UK Annual Meeting 2022
+      year: 2022
+      description: Precision physics with quarkonia
+    - title: Quarkonium as Tools
+      year: 2022
+      description: Quarkonium and TMDs in pp: Past and future measurements.
+
 - title: Academic Interests
   type: nested_list
   contents:
