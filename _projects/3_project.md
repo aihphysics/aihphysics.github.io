@@ -2,7 +2,7 @@
 layout: page
 title: Mechanical Keyboards
 description: Custom mechanical keyboards.
-img: assets/img/finite_state.png
+img: assets/img/workboard_rot.png
 importance: 3
 category: hardware
 ---
@@ -10,7 +10,7 @@ category: hardware
 Along with my little adventures into programming project, I'm a fan of a nice hardware task.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/workboard_rot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/workboard_rot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -19,7 +19,7 @@ Along with my little adventures into programming project, I'm a fan of a nice ha
 First up is my daily workhorse. A KBDfans Tofu60 (gen 1) build using a DZ60 ANSI RGB v2 board. Krytox 205g0 lubed Cherry MX Speed Silvers and some well preppred Durock V2 screw-in stabilisers make this the lightest and fastest board in the office.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/homeboard_rot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/homeboard_rot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
