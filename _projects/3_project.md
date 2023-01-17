@@ -4,7 +4,7 @@ title: Mechanical Keyboards
 description: Custom mechanical keyboards.
 img: assets/img/finite_state.png
 importance: 3
-category: Hardware
+category: hardware
 ---
 
 Along with my little adventures into programming project, I'm a fan of a nice hardware task.

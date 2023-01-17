@@ -5,7 +5,7 @@ permalink: /projects/
 description: Look at these cool things I'm making!
 nav: true
 nav_order: 2
-display_categories: [ programming ]
+display_categories: [ programming hardware ]
 horizontal: true
 ---
 
