@@ -50,7 +50,7 @@ A recent build of mine I completed as a gift. Probably the most professional loo
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dskbwide.JPG" title=FullDS2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dskbdwide.JPG" title=FullDS2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
