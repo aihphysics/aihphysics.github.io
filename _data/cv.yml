@@ -41,16 +41,27 @@
           contents:
             - Utilising Graph Neural Network layers from recently published paper - 1902.07987.
             - Use a YOLO-style approach for image recognition to identify and separate overlapping showers.
+    - institution: ATLAS Collaboration
+      year: 2022
+      description:
+        - ATLAS BLS Trigger Group
+        - Supervised by Adam Barton, Pavel Reznicek.
+        - title: BLS Run 3 Trigger Validation
+          contents:
+            - ATLAS Authorship qualification task
+            - Modernising B & light states Trigger Validation tools
 
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/aihphysics/terminal_rendering">terminal_rendering</a>
-      year: 2022-now
+      year: 2022
       description: A simplified implementation of a rendering engine, with minimal dependencies, designed to work on any unicode compatible terminal.
     - title: <a href="https://github.com/aihphysics/L0">Rocket Project</a>
+      year: 2023-now
       description: Design and build resources for an 'L0' rocket, using an F impulse class motor.
     - title: <a href="https://github.com/aihphysics/mini_neo_led_matrix">PCB design</a>
+      year: 2023-now
       description: Starter project for learning circuit and PCB design and creation
 
 - title: Talks
@@ -61,14 +72,14 @@
       description: New Heavy Flavour states in ATLAS
     - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
       year: 2023
-      description: $B$-Hadron reconstruction in early ATLAS Run 3 data.
+      description: B-Hadron reconstruction in early ATLAS Run 3 data.
     - title: <a href="https://indico.cern.ch/event/1213416/">Quarkonia As Tools</a>  
       year: 2023
       description: Inclusive quarkonium production - experimental overview.
     - title: ATLAS UK Annual Meeting 2022
       year: 2022
       description: Precision physics with quarkonia
-    - title: Quarkonia as Tools
+    - title: Quarkonia As Tools
       year: 2022
       description: Quarkonia and TMDs in pp - Past and future measurements.
 
