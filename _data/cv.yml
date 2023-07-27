@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Alina Isobel Hagan
-        ##- name: Date of Birth
-        ##  value: 
     - name: Languages
       value: English
 
@@ -50,23 +48,29 @@
     - title: <a href="https://github.com/aihphysics/terminal_rendering">terminal_rendering</a>
       year: 2022-now
       description: A simplified implementation of a rendering engine, with minimal dependencies, designed to work on any unicode compatible terminal.
-    - title: FINITE STATE
-      year: 2022-now
-      description: A science fiction styled bridge operation game with an emphasis on complexity, technical knowledge of your craft, and operating procedure.
-
+    - title: <a href="https://github.com/aihphysics/L0">Rocket Project</a>
+      description: Design and build resources for an 'L0' rocket, using an F impulse class motor.
+    - title: <a href="https://github.com/aihphysics/mini_neo_led_matrix">PCB design</a>
+      description: Starter project for learning circuit and PCB design and creation
 
 - title: Talks
   type: time_table
   contents:
-    - title: Quarkonium as Tools
+    - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
+      year: 2023
+      description: New Heavy Flavour states in ATLAS
+    - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
+      year: 2023
+      description: $B$-Hadron reconstruction in early ATLAS Run 3 data.
+    - title: <a href="https://indico.cern.ch/event/1213416/">Quarkonia As Tools</a>  
       year: 2023
       description: Inclusive quarkonium production - experimental overview.
     - title: ATLAS UK Annual Meeting 2022
       year: 2022
       description: Precision physics with quarkonia
-    - title: Quarkonium as Tools
+    - title: Quarkonia as Tools
       year: 2022
-      description: Quarkonium and TMDs in pp - Past and future measurements.
+      description: Quarkonia and TMDs in pp - Past and future measurements.
 
 - title: Academic Interests
   type: nested_list
@@ -80,5 +84,8 @@
   type: list
   contents:
     - Photography.
+    - Rocketry.
     - Hobby Programming.
     - Video Games.
+    - Microcontrollers.
+
