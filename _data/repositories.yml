@@ -3,5 +3,6 @@ github_users:
 
 github_repos:
   - aihphysics/terminal_rendering
-  - aihphysics/analysis_utils
-  - aihphysics/NeutrinoKeySet
+  - aihphysics/L0  
+  - aihphysics/shard_slides
+  - aihphysics/mini_neo_led_matrix
