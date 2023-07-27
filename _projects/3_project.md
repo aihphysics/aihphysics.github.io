@@ -39,13 +39,13 @@ A recent build of mine I completed as a gift. Probably the most professional loo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dskbd1.JPG" title="Dualshock_1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dskbd1_smol.JPG" title="Dualshock_1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dskbd2.JPG" title="Dualshock_2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dskbd2_smol.JPG" title="Dualshock_2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dskbd3.JPG" title="Dualshock_3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dskbd3_smol.JPG" title="Dualshock_3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +53,7 @@ A recent build of mine I completed as a gift. Probably the most professional loo
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dskbdwide.JPG" title="FullDS2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dskbdwide_smol.JPG" title="FullDS2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
