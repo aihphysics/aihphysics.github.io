@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Alina (she/her), I'm a PhD Student from Glasgow, Scotland, and I'm studying at Lancaster University. My research focusses on Quarkonium physics, more specifically, on extracting Gluon TMDs for the proton using charmonium final states.
 
-I work as a part of the ATLAS collaboration and I'm stationed at the CERN, working on-site in Meyrin, Switzerland. 
+I work as a part of the ATLAS collaboration at the CERN site in Meyrin, Switzerland. 
 
 My interests include photography, video games, and good solutions to programming problems. Don't hesitate to get in contact, I'm most easily reached by email.
