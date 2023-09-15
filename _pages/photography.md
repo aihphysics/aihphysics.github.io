@@ -94,6 +94,9 @@ horizontal: true
         {% include figure.html path="assets/img/jo1.jpg" title="J. B." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/b1.jpg" title="B. W." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/d1.jpg" title="D. R." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
