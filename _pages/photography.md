@@ -11,6 +11,15 @@ horizontal: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/crr3.jpg" title="home" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Home.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/clouds.JPG" title="skiiers view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -89,3 +98,15 @@ horizontal: true
     From the underground.
 </div>
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/laura.jpg" title="L. D." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/johnathan.jpg" title="J. H." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Collected friends
+</div>
