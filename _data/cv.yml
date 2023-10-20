@@ -72,8 +72,9 @@
       description: "ECS Presentation: Exploring Proton Structure: Gluon TMDs at ATLAS."
     - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
       year: 2023
-      description: New Heavy Flavour states in ATLAS
-      description: B-Hadron reconstruction in early ATLAS Run 3 data.
+      description: 
+        - "New Heavy Flavour states in ATLAS"
+        - "B-Hadron reconstruction in early ATLAS Run 3 data."
     - title: <a href="https://indico.cern.ch/event/1213416/">Quarkonia As Tools</a>  
       year: 2023
       description: Inclusive quarkonium production - experimental overview.
