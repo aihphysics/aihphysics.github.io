@@ -57,9 +57,9 @@
     - title: <a href="https://github.com/aihphysics/terminal_rendering">terminal_rendering</a>
       year: 2022
       description: A simplified implementation of a rendering engine, with minimal dependencies, designed to work on any unicode compatible terminal.
-    - title: <a href="https://github.com/aihphysics/L0">Rocket Project</a>
+    - title: <a href="https://github.com/aihphysics/L1P">Rocket Project</a>
       year: 2023-now
-      description: Design and build resources for an 'L0' rocket, using an F impulse class motor.
+      description: Design and build of 'L1' rockets, using an F-H impulse motor classes.
     - title: <a href="https://github.com/aihphysics/mini_neo_led_matrix">PCB design</a>
       year: 2023-now
       description: Starter project for learning circuit and PCB design and creation
@@ -67,11 +67,12 @@
 - title: Talks
   type: time_table
   contents:
+    - title: <a href="https://indico.cern.ch/event/1318605/">ATLAS Week 2023</a>  
+      year: 2023
+      description: ECS Presentation: Exploring Proton Structure: Gluon TMDs at ATLAS.
     - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
       year: 2023
       description: New Heavy Flavour states in ATLAS
-    - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
-      year: 2023
       description: B-Hadron reconstruction in early ATLAS Run 3 data.
     - title: <a href="https://indico.cern.ch/event/1213416/">Quarkonia As Tools</a>  
       year: 2023
