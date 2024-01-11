@@ -3,11 +3,11 @@ layout: page
 title: Mechanical Keyboards
 description: Custom mechanical keyboards.
 img: assets/img/workboard_rot.jpg
-importance: 3
+importance: 2
 category: hardware
 ---
 
-Along with my little adventures into programming project, I'm a fan of a nice hardware task.
+Along with my little adventures into programming projects, I'm a fan of a nice 'hardware' task.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/workboard_rot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

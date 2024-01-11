@@ -8,7 +8,7 @@ category: programming
 ---
 
 
-This project is perhaps my favourite dive into an unfamilliar topic. Getting to grips with rudimentary graphics programming has been foundational for my follow up projects. The project started with exploring Andy Sloane's (a1k0n) '[Donut math](https://www.a1k0n.net/2011/07/20/donut-math.html)' article, and has since led me to start learning OpenGL. 
+This project is perhaps my favourite dive into an unfamiliar topic. Getting to grips with rudimentary graphics programming has been foundational for my follow up projects. The project started with exploring Andy Sloane's (a1k0n) '[Donut math](https://www.a1k0n.net/2011/07/20/donut-math.html)' article, and has since led me to start learning OpenGL. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/sphere_rend.png" title="Sphere" class="img-fluid rounded z-depth-1" %}
