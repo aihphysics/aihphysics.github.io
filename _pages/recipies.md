@@ -19,6 +19,4 @@ horizontal: true
       {% include recipies.html %}
     {%- endfor %}
   </div>
-  {%- endif -%}
-{%- endif -%}
 </div>
