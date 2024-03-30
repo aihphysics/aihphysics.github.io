@@ -6,7 +6,9 @@ img: assets/img/shakshuka_cut.jpg
 importance: 3
 category: hardware
 ---
+
 ### Introduction
+I was taught this one by a dear friend, on a cool Saturday morning in France, sometime August '22. Thank you, Victoria.
 
 ### Equipment
 * A decently big non-stick pan. That's about it.
