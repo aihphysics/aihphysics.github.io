@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shakshuka
+title: Saag
 description: 
-img: assets/img/shakshuka_cut.jpg
+img: assets/img/saag_cut.jpg
 importance: 
 category: hardware
 ---

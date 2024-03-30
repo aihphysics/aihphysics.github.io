@@ -2,7 +2,7 @@
 layout: page
 title: Penne al'Arrabiata
 description: This is my signature.
-img: assets/img/cube_1.png
+img: assets/img/arrabiata_cut.jpg
 importance: 1
 category: hardware
 ---

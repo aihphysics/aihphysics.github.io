@@ -2,7 +2,7 @@
 layout: page
 title: Banana Focaccia
 description: It's not actually foccacia.
-img: assets/img/cube_1.png
+img: assets/img/bananabread_cut.jpg
 importance: 1
 category: hardware
 ---
