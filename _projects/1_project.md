@@ -1,6 +1,6 @@
 ---
 layout: page
-title: terminal_rendering
+title: terminal rendering
 description: A unicode terminal renderer.
 img: assets/img/cube_1.png
 importance: 1

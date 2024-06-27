@@ -7,7 +7,7 @@ subtitle: Particle Physics PhD Student.
 
 profile:
   align: right
-  image: Headshot_small1.png
+  image: picrew3.png
   image_circular: true # crops the image to make it circular
   address: >
     <p><center>40-4-C08</center></p>
