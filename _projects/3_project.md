@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rocketbuilding: Part 1.
+title: Rocketbuilding Part 1.
 description: Why I started again. Again.
 img: assets/img/workboard_rot.jpg
 importance: 1
