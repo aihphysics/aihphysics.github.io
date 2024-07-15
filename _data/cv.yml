@@ -13,10 +13,12 @@
       institution: University of Lancaster, ATLAS experiment.
       year: 2020-2024
       description:
+
         - PhD in particle physics.
         - Supervised by Vato Kartvelishvili.
         - title: Research
           contents:
+            - Analysis Lead
             - Extracting Gluon TMDs from \( j/\psi + \gamma \) final states.
     - title: MSc
       institution: University of Glasgow, UK
@@ -37,7 +39,7 @@
       description:
         - Nuclear and Hadron Physics research group.
         - Supervised by Dr. Simon Gardner.
-        - title: Applying GNNs for shower recognition to the Crystal Ball detector.
+        - title: Applying Graph Neural Networks for shower recognition to the Crystal Ball detector.
           contents:
             - Utilising Graph Neural Network layers from recently published paper - 1902.07987.
             - Use a YOLO-style approach for image recognition to identify and separate overlapping showers.
@@ -51,25 +53,44 @@
             - ATLAS Authorship qualification task
             - Modernising B & light states Trigger Validation tools
 
+- title: Key Skills
+  type: list
+  contents:
+    - C++ \& CMake
+    - Development of Multi-Threaded data analysis programs
+    - High throughput computing and grid scheduling
+    - TB scale data analytics
+    - Data visualisation
+    - BDT and Neural Network design
+    - ROOT Data Analysis Framework
+    - Make \& Ninja
+    - GitLab \& GitHub
+    - LaTeX, Python, Rust & Linux
+    - Project Management
+    - Collaboration and Teamwork
+    - Adaptability & Learning Agility
+
 - title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/aihphysics/terminal_rendering">terminal_rendering</a>
       year: 2022
       description: A simplified implementation of a rendering engine, with minimal dependencies, designed to work on any unicode compatible terminal.
-    - title: <a href="https://github.com/aihphysics/L1P">Rocket Project</a>
+    - title: <a href="https://github.com/aihphysics/pirhana-f5000">Rocket Project</a>
       year: 2023-now
       description: Design and build of 'L1' rockets, using an F-H impulse motor classes.
-    - title: <a href="https://github.com/aihphysics/mini_neo_led_matrix">PCB design</a>
-      year: 2023-now
-      description: Starter project for learning circuit and PCB design and creation
-
-- title: Talks
+    - title: <a href="https://github.com/aihphysics/rs_wave_eqn">Rust Wave Simulator</a>
+      year: 2024-now
+      description: A little FTCS solution to the wave equation written in Rust, WIP WASM bindings for a web interface.
+- title: Communications, Papers, & Conferences
   type: time_table
   contents:
+    - title: <a href="https://indico.cern.ch/event/1340942/">LHCC - Large Hadron Collider Committee</a>  
+      year: 2023
+      description: "Reconstruction and trigger for B-Hadron studies in ATLAS Run 3 data."
     - title: <a href="https://indico.cern.ch/event/1318605/">ATLAS Week 2023</a>  
       year: 2023
-      description: "ECS Presentation: Exploring Proton Structure: Gluon TMDs at ATLAS."
+      description: "Early Career Scientist Presentation: Exploring Proton Structure: Gluon TMDs at ATLAS."
     - title:  <a href="https://indico.in2p3.fr/event/28579/">Beauty 2023</a>  
       year: 2023
       description: 
@@ -84,21 +105,13 @@
     - title: Quarkonia As Tools
       year: 2022
       description: Quarkonia and TMDs in pp - Past and future measurements.
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Quarkonium Physics.
-      items: 
-        - \( J/\psi \), \( \Upsilon \) studies.
-        - TMD extraction. 
-
 - title: Other Interests
   type: list
   contents:
-    - Photography.
+    - Film & Digital Photography.
     - Rocketry.
+    - Climbing & Running.
     - Hobby Programming.
-    - Video Games.
-    - Microcontrollers.
+    - CAD Modelling.
+    - 3D Printing.
 
