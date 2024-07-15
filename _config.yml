@@ -165,9 +165,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  recipies:
+  recipes:
     output: true
-    permalink: /recipies/:path/
+    permalink: /recipes/:path/
 
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
