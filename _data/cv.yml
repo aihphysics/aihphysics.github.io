@@ -56,18 +56,18 @@
 - title: Key Skills
   type: list
   contents:
-    - C++ \& CMake
+    - C++ & CMake
     - Development of Multi-Threaded data analysis programs
     - High throughput computing and grid scheduling
     - TB scale data analytics
     - Data visualisation
-    - BDT and Neural Network design
+    - BDT & Neural Network design
     - ROOT Data Analysis Framework
-    - Make \& Ninja
-    - GitLab \& GitHub
+    - Make & Ninja
+    - GitLab & GitHub
     - LaTeX, Python, Rust & Linux
     - Project Management
-    - Collaboration and Teamwork
+    - Collaboration & Teamwork
     - Adaptability & Learning Agility
 
 - title: Projects
