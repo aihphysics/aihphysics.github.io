@@ -64,7 +64,7 @@ while (true){
   draw()
 }
 ```
-My next update to this will probably involve moving to a $\Delta t$  model of iteration with the proper accumulator and doing some calculations with respect to a previous or base state. This is really helpful as you can pin the execution of the physics to a specific rate, independent of the rendering process.
+My next update to this will probably involve moving to a \(\Delta t\)  model of iteration with the proper accumulator and doing some calculations with respect to a previous or base state. This is really helpful as you can pin the execution of the physics to a specific rate, independent of the rendering process.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/lorentz_cube.gif" title="example image" class="img-fluid rounded z-depth-1" %}

@@ -23,3 +23,5 @@ I'm Alina (she/her), I'm a PhD Student from Glasgow, Scotland, and I'm studying 
 I'm involved in a number of projects, these include various design activites and my responsibilities as a Director at the Lancaster and Morecambe Makerspace.
 
 My interests include photography, rocketry, programming and maker activities. Don't hesitate to get in contact, I'm most easily reached by email.
+
+You can find my CV <a href="/cv/">here.</a>

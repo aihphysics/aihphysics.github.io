@@ -4,7 +4,7 @@ title: recipies
 permalink: /recipies/
 description: I've been picking up recipies from a bunch of places and people for a while now, I hope you like them :)
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [ programming hardware ]
 horizontal: true
 ---

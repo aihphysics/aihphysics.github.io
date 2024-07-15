@@ -4,7 +4,7 @@ title: photography
 permalink: /photography/
 description: Just a few photos from my explorations. Let me know if you like them!
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [ ]
 horizontal: true
 ---
