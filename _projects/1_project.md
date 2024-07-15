@@ -3,7 +3,7 @@ layout: page
 title: terminal rendering
 description: A unicode terminal renderer.
 img: assets/img/cube_1.png
-importance: 1
+importance: 2
 category: programming
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Mechanical Keyboards
 description: Custom mechanical keyboards.
 img: assets/img/workboard_rot.jpg
-importance: 2
+importance: 3
 category: hardware
 ---
 
