@@ -2,7 +2,7 @@
 layout: page
 title: Rocketbuilding Part 1.
 description: Why I started again. Again.
-img: assets/img/workboard_rot.jpg
+img: assets/img/banner_rocket.jpg
 importance: 1
 category: hardware
 ---
@@ -36,7 +36,7 @@ The lesson we've just learned, ladies and children, is about something I've lear
 Let's check OpenRocket. Here she is. Her name is Assegai. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/assegai_model.jpg" title="launch" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/assegai_model.png" title="A symphony in cardboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 She's a minimum diameter build, and the first one I've actually constructed. Look at those little fins. Cute, eh? 1.87cal, too. On the nice side of that stability range. Not overstable, not understable. Just right. She'll also come off the launch rod at about 19m/s. I've always been told that's fast enough. I wonder what happens if we skip the summary numbers and look at the stability across the whole flight of a test motor?
