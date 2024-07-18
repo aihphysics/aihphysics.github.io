@@ -6,7 +6,7 @@ title: Alina Isobel Hagan # the website title (if blank, full name will be used 
 first_name: Alina
 middle_name: Isobel
 last_name: Hagan
-email: alina-hagan@outlook.com
+email: aihphysics@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Physicist, Programmer, Scientist, Maker.
 footer_text: >
@@ -72,7 +72,7 @@ github_username: aihphysics # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: aihphysics # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: alina-isobel-hagan-3a62a6255 # your LinkedIn user name
+linkedin_username: alina-hagan-3a62a6255 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -99,7 +99,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Email me!
+  Email me or DM me on twitter!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
