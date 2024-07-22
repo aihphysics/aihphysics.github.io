@@ -25,7 +25,7 @@ I've often been stressed by not having a fully equipped kitchen. I lack a food p
 ### Notes
 A note on bananas: You'll want to handle these first. They're probably not overripe. You're a busy person, you don't have 3 days to schedule bread. Give them a good squeeze a couple hours before, or buy them on your way to work and just rough 'em up a bit in your bag. Get creative. You want that process to start where the enzymes get released and all the sugars start to seep in. The best way to start this is with a little violence, then you should only need to wait an hour so. Serves 1, or 4. It's up to you really.
 
-### Recipie
+### Recipe
 1. Throw the bananas, sugar and oil into the mixing bowl. Crush it all together with a fork, or blend smooth if you have an immersion blender.
 2. Throw in the coconut flakes, blueberies, flower, and any spice you'd like then mix until homogeneous _enough_.
 3. Lightly oil whatever pan you have, then spread the mixture thin across it.

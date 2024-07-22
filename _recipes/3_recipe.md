@@ -30,7 +30,7 @@ I was taught this one by a dear friend, on a cool Saturday morning in France, so
 ### Notes
 Serves 2. Makes your apartment smell great. Use however many chillies suits you. I usually go for one or two large red ones. If you fancy 7 scotch bonnets, I'm not going to stop you.
 
-### Recipie
+### Recipe
 1. Cut up your onion and red pepper however you like. I prefer long strands of gooey veg in mine, you can have diced if you like. Chuck these in some olive oil that's at medium-low heat, along with the crushed garlic and your chopped chillies. Keep going until these are softened a little.
 2. Throw in your can of pelati, and start breaking them up with a fork, then mix in the tomato puree, about a tablespoons worth. Remember to wash out the remnants from the can of tomatos and add the water from that as well. Wait for this to get to a simmer and wait a couple minutes.
 3. Now's the time to add a tablespoon of the ground cumin and paprika, along with a bit of salt, and a good few cracks of black pepper. Add a healthy pinch of MSG about now too. Let things continue to reduce. You can stir if you like.

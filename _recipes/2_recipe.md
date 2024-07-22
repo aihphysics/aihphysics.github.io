@@ -7,4 +7,4 @@ importance: 2
 category: hardware
 ---
 
-I don't have a recipie for you here. Invite me over.
+I don't have a recipe for you here. Invite me over.
