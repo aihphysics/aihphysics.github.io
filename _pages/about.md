@@ -24,4 +24,4 @@ I'm involved in a number of projects, these include various design activites and
 
 My interests include photography, rocketry, programming and maker activities. Don't hesitate to get in contact, I'm most easily reached by email.
 
-You can find my CV <a href="/cv/">here.</a>
+You can find my CV <a href="/assets/pdf/cv.pdf">here.</a>
