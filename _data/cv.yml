@@ -1,76 +1,93 @@
-- title: General Information
+- title: Summary
   type: map
   contents:
     - name: Full Name
       value: Alina Isobel Hagan
-    - name: Languages
-      value: English
+    - name: GitHub
+      value: <a href="https://github.com/aihphysics">aihphysics</a>
+    - name: Website
+      value: You're here!
+    - name: Email
+      value: <a href="mailto:alina-hagan@outlook.com">alina-hagan@outlook.com</a>
+    - name: Phone
+      value: +44 7793 450903
 
-- title: Education
+
+- title: Education & Experience
   type: time_table
   contents:
+    - title: Analysis Lead & Trigger Signature Expert
+      institution: ATLAS Collaboration 
+      year: 2020-now
+      description:
+        - Oversaw live data collection & coordination with international experts
+        - Updated ATLAS Validation tools for evolved frameworks in C++ & CMake
+        - Lead a worlds-first analysis exploring gluon structure in the proton
+
     - title: PhD
-      institution: University of Lancaster, ATLAS experiment.
-      year: 2020-2024
+      institution: University of Lancaster, ATLAS Experiment & CERN
+      year: 2020-now
       description:
+        - High-Energy Particle Physics, supervised by Vato Kartvelishvili.
+        - Analysis lead, measurement of gluon structure in proton-proton collisions.
 
-        - PhD in particle physics.
-        - Supervised by Vato Kartvelishvili.
-        - title: Research
-          contents:
-            - Analysis Lead
-            - Extracting Gluon TMDs from \( j/\psi + \gamma \) final states.
-    - title: MSc
-      institution: University of Glasgow, UK
-      year: 2020
+    - title: Director & Board Member
+      institution: Lancaster & Morecambe Makers
+      year: 2024-now
       description:
-        - Masters of Science, Physics.
-        - First Class Award.
-        - title: Masters project
-          contents:
-            - Measurement of \(b\)-jet substructure variables.
-            - Exploration of effects of Soft-Drop Jet cleaning method.
+        - Coordinating conversion to Community Interest Community
+        - Representing student interests as student liasion
+        - Running public repair cafes & promoting maker ideals
+        - Organising new promotional materials & rebranding
+        
+    - title: Post Graduate Teaching Assistant
+      institution: Lancaster University
+      year: 2020-now
+      description:
+        - Assisting students in practical & theoretical contexts
+        - Communication & teaching of complex physics ideas
+        - Taught multiple fields; programming & simulation, calculus, circuits, fourier analysis, & particle physics.
+        - Administrative efforts in grading, identiying & aiding struggling students
 
-- title: Experience
-  type: time_table
-  contents:
-    - institution: University of Glasgow
+    - title: MSc (Hons) Physics 1st
+      institution: University of Glasgow
+      year: 2015-2020
+      description:
+        - Measurements of b-jet substructure & exploration of novel overlap removal methods & data purification.
+
+    - title: Nuclear & Hadron Physics Research Group Internship
+      institution: University of Glasgow
       year: 2019
       description:
-        - Nuclear and Hadron Physics research group.
-        - Supervised by Dr. Simon Gardner.
-        - title: Applying Graph Neural Networks for shower recognition to the Crystal Ball detector.
-          contents:
-            - Utilising Graph Neural Network layers from recently published paper - 1902.07987.
-            - Use a YOLO-style approach for image recognition to identify and separate overlapping showers.
-    - institution: ATLAS Collaboration
-      year: 2022
-      description:
-        - ATLAS BLS Trigger Group
-        - Supervised by Adam Barton, Pavel Reznicek.
-        - title: BLS Run 3 Trigger Validation
-          contents:
-            - ATLAS Authorship qualification task
-            - Modernising B & light states Trigger Validation tools
+        - Design of Novel Graph Neural Networks for the Crystal Ball detector
+        - Developed training & testing framework in tensorflow & python
 
 - title: Key Skills
   type: list
   contents:
     - C++ & CMake
-    - Development of Multi-Threaded data analysis programs
-    - High throughput computing and grid scheduling
+    - Multithreaded development
+    - GitLab & GitHub
+    - International project managemetn
+    - Latex.
+    - Python, matplotlib, tensorflow.
+    - Rust, plotters, ndarray
+    - Adaptability & learning agility
+    - Strong foundation in algorithmics
+    - High throughput computing
+    - Computer modelling & simulation
+    - Advance statistical methods for data analysis
+    - Make & Ninja
     - TB scale data analytics
     - Data visualisation
     - BDT & Neural Network design
     - ROOT Data Analysis Framework
-    - Make & Ninja
-    - GitLab & GitHub
-    - LaTeX, Python, Rust & Linux
-    - Project Management
-    - Collaboration & Teamwork
-    - Adaptability & Learning Agility
+    - Intimate knowledge of linear algebra & calculus
+    - Insightful data interpretation
 
-- title: Projects
+
+- title: Independent Projects
+  description: Along with my continuing involvement in physics & community projects I am passionate about broadening my horizons in a multitude of ways. I’m always looking to gain additional skills that I can apply to other areas in my life. 
   type: time_table
   contents:
     - title: <a href="https://github.com/aihphysics/terminal_rendering">terminal_rendering</a>
@@ -78,16 +95,18 @@
       description: A simplified implementation of a rendering engine, with minimal dependencies, designed to work on any unicode compatible terminal.
     - title: <a href="https://github.com/aihphysics/pirhana-f5000">Rocket Project</a>
       year: 2023-now
-      description: Design and build of 'L1' rockets, using an F-H impulse motor classes.
-    - title: <a href="https://github.com/aihphysics/rs_wave_eqn">Rust Wave Simulator</a>
+      description: Design & build of 'L1' rockets, using an F-H impulse motor classes.
+    - title: <a href="https://github.com/aihphysics/rs_wave_eqn">Wave Equation Simulator</a>
       year: 2024-now
       description: A little FTCS solution to the wave equation written in Rust, WIP WASM bindings for a web interface.
+
 - title: Communications, Papers, & Conferences
   type: time_table
+  description: I am an excellent communicator & I have been selected on multiple occasions to represent my analysis team & my subgroup at international conferences & collaboration meetings
   contents:
     - title: <a href="https://indico.cern.ch/event/1340942/">LHCC - Large Hadron Collider Committee</a>  
       year: 2023
-      description: "Reconstruction and trigger for B-Hadron studies in ATLAS Run 3 data."
+      description: "Reconstruction & trigger for B-Hadron studies in ATLAS Run 3 data."
     - title: <a href="https://indico.cern.ch/event/1318605/">ATLAS Week 2023</a>  
       year: 2023
       description: "Early Career Scientist Presentation: Exploring Proton Structure: Gluon TMDs at ATLAS."
@@ -104,14 +123,16 @@
       description: Precision physics with quarkonia
     - title: Quarkonia As Tools
       year: 2022
-      description: Quarkonia and TMDs in pp - Past and future measurements.
+      description: Quarkonia & TMDs in pp - Past & future measurements.
+      
 - title: Other Interests
   type: list
   contents:
-    - Film & Digital Photography.
-    - Rocketry.
-    - Climbing & Running.
-    - Hobby Programming.
-    - CAD Modelling.
-    - 3D Printing.
+    - Film & Digital Photography
+    - Rocketry
+    - Cooking
+    - Climbing & Running
+    - Hobby Programming
+    - CAD Modelling
+    - 3D Printing
 
