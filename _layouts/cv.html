@@ -14,6 +14,7 @@ layout: default
               {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                  <h6 class="card-description font-weight-light">{{ entry.description }}</h6>
                   <div>
                   {% if entry.type == "list" %}
                     {% include cv/list.html %}
