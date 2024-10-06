@@ -8,7 +8,7 @@ category: hardware
 ---
 
 ### Introduction
-I nicked these of my friend Laura. She says she got these off her friend Bunny. I don't really know how far the rabbit hole goes.
+I nicked these off my friend Laura. She says she got these off her friend Bunny. I don't really know how far the rabbit hole goes.
 
 ### Equipment
 * One non-stick pan.
